@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @mhamza105
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @M Hamza  
+**Game Developer | Unity & Unreal Engine Enthusiast | C# & C++ Programmer**
 
-<!---
-mhamza105/mhamza105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- Game Mechanics & System Design  
+- Unity 3D & Unreal Engine Development  
+- C# for Game Development  
+- Multiplayer & Networking in Games  
+- Game Physics & AI Programming  
+- AR/VR and Immersive Experiences
+
+**Currently Exploring**  
+- Advanced shaders and VFX in Unity  
+- Game optimization techniques  
+- Procedural content generation  
+- Mobile game publishing and monetization
+
+**Open to Collaborations In**  
+- Indie game development  
+- Prototyping new gameplay concepts  
+- Unity tools and asset development
+
+**Contact**  
+- Email: dev.minhajahmad03@gmail.com
